@@ -1,4 +1,4 @@
-### ⁍ 𝘅𝟴𝟴𝗿𝗲
+### ⁍ 𝐱𝟖𝟖𝐫𝐞
  
 ```
 File  Action  Edit  View  Help
@@ -13,7 +13,7 @@ File  Action  Edit  View  Help
 : Learning :
 ==> Static & Dynamic Analysis 
 ==> Black Box Testing (a lil' bit)
-==> Reversing -> Binary Analysis -> Ghidra -> Yara -> IDA Pro
+==> Reversing -> Binary Analysis -> Ghidra -> Yara ->  Ghidra
 ==> Reverse Engineering Specialist@Google Operations Center
 
 : Certification Currently Preparing for :
