@@ -33,6 +33,6 @@ Info that nobody cares about (but I do and gonna mention for no reason at all):
 
 ```
 : Mail Me             - x88re@gmail.com
-: X                   - www.x.com/0x4d1Xploit
+: X                   - www.x.com/0x88re
 ```
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=x88re&label=Profile%20views&color=0e75b6&style=flat" alt="x88re" /> </p>
